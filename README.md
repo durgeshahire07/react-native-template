@@ -16,10 +16,10 @@ npm install
 ```
 
 ## Preview
-<p>
+<p flex-direction="row">
 <img align="left" src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/sign-up.png" alt="register" width="350" />
-<img align="left" src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/forget-pass.png" alt="forget-pass" width="350" />
+<img align="left" src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/login.png" alt="login" width="350" />
 </p>
-<img align="left" src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/forget-pass.png" alt="forget-pass" width="350" />
+<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/forget-pass.png" alt="forget-pass" width="350" />
 
 ### Happy Coding 🚀
