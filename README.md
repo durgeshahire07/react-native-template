@@ -16,10 +16,7 @@ npm install
 ```
 
 ## Preview
-
-![SignUp](https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/sign-up.png)
-![SignIn](https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/login.png)
-![ForgetPass](https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/forget-pass.png)
+<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/login.png" alt="login" width="200" height="200" />
 
 
 ### Happy Coding 🚀
