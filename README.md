@@ -16,12 +16,12 @@ npm install
 ```
 
 ## Preview
-
+<p flex-direction="row">
 <img align="left" src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/signup.png" alt="register" width="400" />
 <img align="right" src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/login.png" alt="login" width="400" />
-
-
+</p>
+<p flex-direction="row">
 <img align="left" src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/forget-pass.png" alt="forget-pass" width="400" />
 <img align="right" src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/otp.png" alt="otp" width="400">
-
+</p>
 
