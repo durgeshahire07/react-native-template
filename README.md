@@ -16,8 +16,8 @@ npm install
 ```
 
 ## Preview
-<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/sign-up.png" alt="register" width="400" />
-<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/login.png" alt="login" width="400" />
+<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/sign-up.png" alt="register" width="350" />
+<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/login.png" alt="login" width="350" />
 
 
 ### Happy Coding 🚀
