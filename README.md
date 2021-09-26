@@ -16,12 +16,16 @@ npm install
 ```
 
 ## Preview
-<p flex-direction="row">
-<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/signup.png" alt="register" width="400" />
-<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/login.png" alt="login" width="400" />
+<div>
+    <div flex-direction="row">
+        <img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/signup.png" alt="register" width="400" />
+        <img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/login.png" alt="login" width="400" />
+    </div>
+    <div flex-direction="row">
+        <img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/forget-pass.png" alt="forget-pass" width="400" />
+        <img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/otp.png" alt="otp" width="400">
+    </div>
+</div>
 
-<p flex-direction="row">
-<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/forget-pass.png" alt="forget-pass" width="400" />
-<img src="https://github.com/durgeshahire07/react-native-template/blob/main/src/screenshots/otp.png" alt="otp" width="400">
-</p>
+### Happy Coding 🚀
 
